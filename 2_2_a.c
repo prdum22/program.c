@@ -1,4 +1,4 @@
-//Using if-else and && operator, find max out of 3 non-distinct numbers.
+//Using if-else and && operator, find max out of 3 distinct numbers.
 #include<stdio.h>
 int main()
 {
